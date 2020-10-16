@@ -20,10 +20,15 @@ $ npm run generate
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
 <br>
+
 # floist_aoi_flower
+
 <br>
+
 demo : https://aoiflower.netlify.app/
+
 <br>
+
 <img src="https://github.com/kimjihun-dev/floist_aoi_flower/blob/master/aoi_full.jpg" width="100%">
 
 
