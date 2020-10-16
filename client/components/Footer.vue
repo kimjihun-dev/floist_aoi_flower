@@ -20,6 +20,6 @@ export default {
 .footer-inner p { font-size: 14px; color: #bababa; }
 
 @media all and (max-width: 768px) { 
-    .footer-inner { padding-top: 0px; padding-top: 20%; }
+    .footer-inner { padding-top: 0px; padding-top: 18%; }
 }
 </style>

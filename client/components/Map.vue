@@ -1,5 +1,5 @@
 <template>
-    <section class="map">
+    <section class="map" id="section-contact">
         <div class="map-inner">
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3264.593594139772!2d128.99395241509433!3d35.091885880335965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3568e82db08236dd%3A0x879e88b3f50fe643!2z67aA7IKw6rSR7Jet7IucIOyCrO2VmOq1rCDqsJDsspwx64-ZIOqwkOyynOuhnCAyOQ!5e0!3m2!1sko!2skr!4v1602652710444!5m2!1sko!2skr" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
         </div>

@@ -21,7 +21,7 @@
                 </li>
             </ul>
         </div>
-        <div class="m-intro">
+        <div class="m-intro" id="section-intro">
             <h2>introducing</h2>
             <div class="seo">
                 <img src="~assets/images/seo.jpg" alt="플로리스트 서현정 사진">
@@ -71,7 +71,7 @@ export default {
 .intro .m-intro { display: none; }
 
 @media all and (max-width: 768px) {
-    .intro { width: 100%; height: 100%; }
+    .intro { z-index: -10; width: 100%; height: 100%; }
     .title, .seo-pic, .resume { display: none; }
     .intro .m-intro { display: block; width: 100%; position: relative; }
     .m-intro h2 { text-align: center; font-family: 'Noto Sans KR', sans-serif; font-size: 36px; font-weight: bold; color: #e5e5e5; letter-spacing: -3.24px; text-transform: uppercase; margin-bottom: 15px; }

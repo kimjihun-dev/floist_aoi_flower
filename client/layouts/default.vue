@@ -40,13 +40,14 @@ export default {
 <style>
 body, html {
     box-sizing: border-box;
-  font-family: 'NanumSquare', sans-serif;
-  font-size: 14px;
-  word-spacing: 1px;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased;
+    font-family: 'NanumSquare', sans-serif;
+    font-size: 14px;
+    word-spacing: 1px;
+    scroll-behavior: smooth;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
 }
 
 *,

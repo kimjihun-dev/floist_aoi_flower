@@ -20,7 +20,7 @@
         </div>
         <div class="about-name"><img src="~assets/images/aoi-name.png" alt="aoi-name"></div>
         <!-- 모바일용 -->
-        <div class="m-about">
+        <div class="m-about" id="section-about">
             <h2>about</h2>
             <img src="~assets/images/about-img.png" alt="about-이미지">
             <div class="m-about-word">

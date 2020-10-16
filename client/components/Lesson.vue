@@ -29,7 +29,7 @@
             </div>
         </div>
         <!-- mobile -->
-        <div class="m-lesson-inner">
+        <div id="section-class" class="m-lesson-inner">
             <h2>class</h2>
             <p class="class-info">
                 꽃에 대해 몰라도  꽃을 사랑하는  모든 분들을 위한 <br>

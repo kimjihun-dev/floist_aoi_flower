@@ -1,5 +1,5 @@
 <template>
-    <section class="insta">
+    <section class="insta" id="section-sns">
         <div class="title">
             <div class="ico"><img src="~assets/images/instagram_ico.png" alt="인스타아이콘"></div>
             <div class="id">

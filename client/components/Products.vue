@@ -40,7 +40,7 @@
 
             </div>
         </div>
-        <div class="m-product-inner">
+        <div id="section-product" class="m-product-inner">
             <div class="m-title">
                 <h4>products</h4>
                 <p>아오이 플라워 에서는 싱싱한 꽃과<br>식물을 고객님께 제공해드리고 있습니다</p>
