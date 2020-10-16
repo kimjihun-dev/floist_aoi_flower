@@ -60,7 +60,7 @@ export default {
 .header .words { position: absolute; margin-top: 299px; margin-left: 181px; }
 .words .name { display: block; text-indent: -9999px; width: 277px; height: 43px; background: url('~assets/images/header-name.png') no-repeat; }
 .words .title { display: block; margin-top: 10px; text-indent: -9999px; width: 470px; height: 101px; background: url('~assets/images/logo.png') no-repeat; }
-.mBtn { display: none; }
+.mBtn, .sNav { display: none; }
 
 @media all and (max-width: 768px) {
     .header { width: 100%; height: 505px; background: url('~assets/images/m-header-bg.png') no-repeat bottom/cover; }
@@ -68,6 +68,7 @@ export default {
     .mBtn { display: block; position: absolute; top: 23px; right: 25px; }
     .mBtn a { display: block; text-indent: -9999px; width: 29px; height: 29px; background: url('~assets/images/mBtn.png') no-repeat; }
     /* side Nav */
+    .sNav { display: block; }
     .sNav { position: fixed; width: 0; right: 0; z-index: 300; height: 100%; background-color: #111; top: 0; overflow-x: hidden; padding-top: 60px; transition: all 0.5s; }
     .closebtn { position: absolute; top: 10px; left: 10px; font-size: 36px; color: #fff; text-decoration: none; }
     .sNav ul { padding: 30px 20px 0 20px; }
