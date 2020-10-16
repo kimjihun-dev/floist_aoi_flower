@@ -18,4 +18,9 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+<br>
 # floist_aoi_flower
+
+demo : https://aoiflower.netlify.app/
+
