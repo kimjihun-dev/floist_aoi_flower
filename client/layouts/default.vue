@@ -22,7 +22,6 @@ import Instagram from '../components/Instagram'
 import Map from '../components/Map'
 import Footer from '../components/Footer'
 
-
 export default {
     components: {
         Header,
@@ -33,7 +32,8 @@ export default {
         Instagram,
         Map,
         Footer,
-    }
+    },
+
 }
 </script>
 

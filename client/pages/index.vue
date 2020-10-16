@@ -3,16 +3,13 @@
 </template>
 
 <script>
-export default {}
+export default {
+}
 </script>
 
 <style>
-.container {
-  margin: 0 auto;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
+.flower01 { z-index: -10; position: absolute; left: -10%; top: 170%; width: 80%; height: 1268px; background: url('~assets/images/bg-flower.png') no-repeat; }
+@media all and (max-width: 768px) {
+    .flower01 { display: none; }
 }
 </style>
