@@ -13,7 +13,7 @@
             <div><a href="https://www.instagram.com/p/BMXYfzLgeRH/?igshid=1utl3gtmm9jo" target="_blank"><img src="~assets/images/i06.png" alt="인스타이미지"></a></div>
             <div><a href="https://www.instagram.com/p/BMUrFqxATdN/?igshid=1sswsvrxwr786" target="_blank"><img src="~assets/images/i04.png" alt="인스타이미지"></a></div>
             <div><a href="https://www.instagram.com/p/BMbfT7uAmXd/?igshid=1a0w6mr1cr30t" target="_blank"><img src="~assets/images/i05.png" alt="인스타이미지"></a></div>
-            <div><a href="https://www.instagram.com/p/B5jc-YRl7ZH/" target="_blank"><img src="~assets/images/i033.jpg" alt="인스타이미지"></a></div>
+            <div><a href="https://www.instagram.com/p/BMbEmb4AKoQ/?igshid=c8yheiqi648d" target="_blank"><img src="~assets/images/i03.png" alt="인스타이미지"></a></div>
         </div>
     </section>
 </template>

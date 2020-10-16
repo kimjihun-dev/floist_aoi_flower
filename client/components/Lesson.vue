@@ -26,6 +26,7 @@
                     </ul>
                 </div>
                 <div class="oneday"><img src="~assets/images/oneday.png" alt="원데이클래스"></div>
+                <div class="lesson-bg"></div>
             </div>
         </div>
         <!-- mobile -->
@@ -93,17 +94,20 @@ export default {
 </script>
 
 <style>
-.lesson { max-width: 1440px; width: 100%; margin: 0 auto; margin-top: 230px !important;  }
+.lesson { position: relative; max-width: 1440px; width: 100%; margin: 0 auto; margin-top: 230px !important;  }
 .lesson-pc-inner { display: flex; justify-content: space-between; }
-.lesson-pc-inner img { width: 100%; }
+.lesson-pc-inner img { width: 70%; }
 .lesson-img-section { margin-right: 40px; }
-.lesson-img-section .hand { margin-bottom: 40px; }
+.lesson-img-section .hand { margin-bottom: 40px; text-align: right; }
+.basket {text-align: right; }
 .info h2 { font-family: 'Noto Sans KR', sans-serif; font-size: 144px; letter-spacing: -12.96px; text-transform: uppercase; color: #e5e5e5;}
 .info p::after { margin: 20px 0 50px 0; display: block; content: ""; width: 43px; height: 1px; background: #444; }
 .info ul { list-style: none; margin-bottom: 27px; }
 .info ul li { font-size: 18px; color: #222; letter-spacing: -0.36px; display: inline-block; margin-right: 30px; }
 .info ul li span { font-family: 'Noto Sans KR', sans-serif; font-size: 24px; font-weight: bold; color: #f9c5c5; vertical-align: middle; margin-right: 10px; }
 .oneday { margin-top: 80px; }
+.oneday img { width: 80%; }
+.lesson-bg { position: absolute; z-index: -10; width: 1100px; height: 350px; background: #ebebeb; right: 180px; bottom: 40px; }
 .m-lesson-inner { display: none; }
 .slider { display: none; }
 
