@@ -107,7 +107,7 @@ export default {
 .info ul li span { font-family: 'Noto Sans KR', sans-serif; font-size: 24px; font-weight: bold; color: #f9c5c5; vertical-align: middle; margin-right: 10px; }
 .oneday { margin-top: 80px; }
 .oneday img { width: 80%; }
-.lesson-bg { position: absolute; z-index: -10; width: 1100px; height: 350px; background: #ebebeb; right: 180px; bottom: 40px; }
+.lesson-bg { position: absolute; z-index: -10; width: 500px; height: 350px; background: #ebebeb; left: 250px; bottom: -50px; }
 .m-lesson-inner { display: none; }
 .slider { display: none; }
 
