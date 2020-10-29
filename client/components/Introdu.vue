@@ -37,8 +37,7 @@
                         Wedding Diploma, Paris France 
                     </li>
                     <li>
-                        Miho Flower OneDay Lesson <br>
-                        Diploma, Tokyo Japan
+                        Miho Flower OneDay Lesson <br>Tokyo Japan
                     </li>
                     <li>
                         화훼장식기능사, 플로리스트사범
