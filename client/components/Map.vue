@@ -1,15 +1,15 @@
 <template>
     <section class="map" id="section-contact">
         <div class="map-inner">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3264.593594139772!2d128.99395241509433!3d35.091885880335965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3568e82db08236dd%3A0x879e88b3f50fe643!2z67aA7IKw6rSR7Jet7IucIOyCrO2VmOq1rCDqsJDsspwx64-ZIOqwkOyynOuhnCAyOQ!5e0!3m2!1sko!2skr!4v1602652710444!5m2!1sko!2skr" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3264.052350695352!2d128.9723631297857!3d35.10540364768332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3568c2624d85a1df%3A0xba31e0d050f037db!2z67aA7IKw6rSR7Jet7IucIOyCrO2VmOq1rCDri7nrpqzrj5kg7Iq57ZWZ66GcIDUwLTE!5e0!3m2!1sko!2skr!4v1614157376543!5m2!1sko!2skr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
         </div>
         <div class="map-info">
             <h4>aoiflower</h4>
-            <address>부산시 사하구 감천로 29</address>
+            <address>부산광역시 사하구 당리동 승학로 50-1</address>
             <ul>
                 <li>
                     <span>영업시간</span>
-                    <p>오전 11시 ~ 오후 9시</p>
+                    <p>오전 11시 ~ 오후 7시</p>
                 </li>
                 <li><span>연락처</span><p>010-4574-3607</p></li>
                 <li><span>kakao</span><p>sshhjj7</p></li>
